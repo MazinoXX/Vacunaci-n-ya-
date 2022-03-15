@@ -1,0 +1,164 @@
+*{
+    font-style:Arial;
+    text-decoration: none;
+    
+}
+.nav-color{
+    color: grey;
+    align-items: center;
+    padding: 20px;
+    
+    
+}
+.nav-enlace{
+    background-color:blue ;
+    display: inline-block;
+    color: white;
+    padding: 10px 30px;
+    border-radius: 5px;
+
+
+}
+.container-nav{
+    margin-right: 200px;
+    color: blue;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+nav{
+    padding: 25px;
+    text-align: center;
+    
+    opacity: 0.8;
+    
+}
+a{
+    padding: 100px;
+    text-align: left;
+    margin-right: 5px;
+    
+}
+.container1{
+    height: 600px;
+    width: 550px;
+    background-image: url("./imag/nurse.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    float: right;
+}
+.container1-1{
+    height: 60px;
+    width: 210px;
+    margin-top: 160px;
+    font-size: 18px;
+    font-weight: bolder;
+    color: blue;
+
+}
+.container1-2{
+    height: 100px;
+    width: 700px;
+    background-color:white;
+    position: absolute;
+    margin-left: 30px;
+    opacity: 0.8;
+    font-size: 18px;
+    margin-top: -10px;
+    
+    
+}
+.container1-2-1{
+    height: 50px;
+    width: 100px;
+    display: inline-block;
+    margin-left: 60px;
+    margin-top: 8px;
+    color: blue;
+}
+.container-texto1{
+    height: 200px;
+    width: 30%;
+    text-align: center left;
+    margin-top: 60px;
+    margin-left: 100px;  
+}
+.titulo1{
+    color:darkblue;
+    font-size: 50px;
+    font-weight: bolder;
+    margin-bottom: 20px;
+}
+.texto1{
+    color: grey;
+    margin-top: -5px;
+
+}
+.mainContainer2{
+    height: 200px;
+    margin-top: 340px;
+    background-image: url(.//imag/logoVacunas.PNG);
+    background-size: cover;
+    background-repeat: none;
+}
+.mainContainer3-1-1{
+    height: 100px;
+    background-color:white;
+    margin-left: 80px;
+}
+.mainContainer3{
+    height: 300px;
+    font-size: 10px;
+    display: inline-block;
+    
+    
+}
+.mainContainer3-1{
+    height: 180px;
+    width: 200px;
+    display: inline-block;
+    color: blue;
+    margin-left: 70px;
+    border-style: solid;
+    border-color: whitesmoke;
+    
+    
+}
+.titulo1-1{
+    color:darkblue;
+    font-size: 20px;
+    font-weight: bolder;
+    margin-bottom: 20px;
+    margin-left: 15px;
+}
+.texto1-1{
+    color: grey;
+    font-size: 15px;
+    margin-top: -5px;
+    margin-left: 15px;
+}
+.mainContainer4{
+    height: 600px;
+    background-image: url(.//imag/nurse2.jpg);
+    background-repeat: no-repeat;
+    background-position: bottom left;
+    
+}
+.texto2{
+    height: 100px;
+    text-align:left;
+    font-size: x-large;
+    font-weight: bolder;
+    margin-left: 700px;
+    color:darkblue;
+    margin-bottom: -15px;
+    margin-top: 30px;
+
+}
+.texto2-1{
+    height: 100px;
+    margin-left: 700px;
+    margin-top: 40px;
+    color: gray;
+
+}
